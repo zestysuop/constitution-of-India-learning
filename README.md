@@ -36,3 +36,17 @@ constitution-of-india-learning/
 │   └── ...
 │
 └── Resources.md
+
+In Article 15- Prohibition of Discrimination
+Article 15(1) : The state cannot discriminate against any citizen only on the grounds of:
+1. Religion
+2. Race
+3. Caste
+4. Sex
+5. Place of birth
+Article 15(2): No citizen can be denied access to public places such as:
+1. Shops
+2. Restaurants
+3. Hotels
+4. Places of public entertainment
+5. Wells, tanks, roads, etc
