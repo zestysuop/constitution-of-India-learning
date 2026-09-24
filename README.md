@@ -43,10 +43,12 @@ Article 15(1) : The state cannot discriminate against any citizen only on the gr
 2. Race
 3. Caste
 4. Sex
-5. Place of birth
-Article 15(2): No citizen can be denied access to public places such as:
-1. Shops
-2. Restaurants
-3. Hotels
-4. Places of public entertainment
-5. Wells, tanks, roads, etc
+
+
+Article 19(1)(a) gives citizens the fundamental right to freedom of speech and expression. This is the broader provision relevant to expressing yourself in a language.
+
+But for language specifically, these are even more relevant:
+1. Article 29(1) — protects the right of a section of citizens having a distinct language, script or culture to conserve it.
+2. Article 350 — allows a person to submit a representation for the redress of a grievance to a Union or State authority in any language used in the Union or State, as applicable.
+3. Article 350A — concerns facilities for instruction in the mother tongue at the primary stage for children belonging to linguistic minority groups.
+4. Article 351 — directs the Union to promote the spread and development of Hindi
